@@ -4,7 +4,8 @@
 
 🔭 Já desenvolvi alguns projetos em C# e Node.JS, como a API Restfull de Vendas que estou trabalhando atualmente .
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Se quiser entrar em contato comigo para fazer um networking e conversar pode me chamar em: [![Linkedin Badge](https://img.shields.io/badge/-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/bernardo-gualberto-3129aa203/)](https://www.linkedin.com/in/bernardo-gualberto-3129aa203/) 
+[![Gmail Badge](https://img.shields.io/badge/-bernardogualberto8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardogualberto8@gmail.com)](mailto:bernardogualberto8@gmail.com).
 
 ----
 
