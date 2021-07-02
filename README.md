@@ -1,8 +1,8 @@
 ## 💜 Olá, eu me chamo <strong>Bernardo!</strong>
 
-> Oi, Tenho 16 anos de idade e atualmente trabalho como desenvolvedor backend. Tenho conhecimentos full-stack mas gosto e conheço mais sobre back-end.
+> Oi, Tenho 16 anos de idade e atualmente estou estudando muito sobre desenvolvimento BackEnd. Tenho conhecimentos básicos em FrontEnd mas gosto mais de BackEnd.
 
-🔭 Já desenvolvi alguns projetos em C# e Node.JS, como a API Restfull de Vendas que estou trabalhando atualmente .
+🔭 Já desenvolvi alguns projetos em C# e Node.JS, como a API Restfull de Vendas que estou trabalhando atualmente.
 
 💬 Se quiser entrar em contato comigo para fazer um networking e conversar pode me chamar em: [![Linkedin Badge](https://img.shields.io/badge/-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/bernardo-gualberto-3129aa203/)](https://www.linkedin.com/in/bernardo-gualberto-3129aa203/) 
 [![Gmail Badge](https://img.shields.io/badge/-bernardogualberto8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardogualberto8@gmail.com)](mailto:bernardogualberto8@gmail.com).
