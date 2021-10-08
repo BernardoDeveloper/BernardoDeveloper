@@ -2,7 +2,7 @@
 
 > Opa, Tenho 17 anos de idade e atualmente trabalho na Veacci como dev FullStack utilizando Frameworks JS em um geral. Tenho mais interesse em desenvolver aplicações BackEnd mas os desafios que me propoem estou aceitando.
 
-🔭 Já desenvolvi alguns projetos em C#, Java, NodeJS, GoLang, VueJS, ReactJS e atualmente estou aprendendo SolidJS.
+🔭 Já desenvolvi alguns projetos em C#, Java, NodeJS, GoLang, VueJS, ReactJS e atualmente estou aprendendo Python.
 
 💬 Se quiser entrar em contato comigo para fazer um networking e conversar pode me chamar em: [![Linkedin Badge](https://img.shields.io/badge/-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/bernardo-gualberto-3129aa203/)](https://www.linkedin.com/in/bernardo-gualberto-3129aa203/) 
 [![Gmail Badge](https://img.shields.io/badge/-bernardogualberto8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardogualberto8@gmail.com)](mailto:bernardogualberto8@gmail.com).
