@@ -1,22 +1,49 @@
-## 💜 Olá, eu me chamo <strong>Bernardo!</strong>
+<!-- Inspiration: https://github.com/owl4ce -->
 
-> Tenho 17 anos de idade e atualmente estou estudando desenvolvimento web. Tenho maior interesse em desenvolver aplicações BackEnd!
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            Hello There
+        <br>
+            I'm Bernardo, a Student, like Linux and I'm learning golang.
+            </b>
+        <br>
+        <br>
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=learning+golang.">
+        <br>
+            <b>
+            ~ Bernardo Gualberto ~
+            </b>
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-🔭 Estou estudando e aprofundando meus conhecimentos em Golang
+<br>
 
-💬 Se quiser entrar em contato comigo para fazer um networking e conversar pode me chamar em: [![Linkedin Badge](https://img.shields.io/badge/-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/bernardo-gualberto-3129aa203/)](https://www.linkedin.com/in/bernardo-gualberto-3129aa203/) 
-[![Gmail Badge](https://img.shields.io/badge/-bernardogualberto8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardogualberto8@gmail.com)](mailto:bernardogualberto8@gmail.com).
+<details align="center">
+<summary><samp>extend</samp></summary>
 
-----
+<h2></h2><br>
 
-## 🚀 Minhas Skills
+<!-- Contact Me -->
+<p align="center">
+    <samp>
+      <a href="https://discord.com/users/968852702866055179" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
+      <a href="https://www.reddit.com/user/Bernardimmmmmm" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a></a>
+      <a href="mailto:bernardogualberto8@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
+      <h2></h2> 
+    </samp>
+</p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongo"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardoDeveloper&show_icons=true)
+<!-- Github Stats -->
+<p align="center">
+    <samp>
+<details>
+  <summary>My Profile Stats</summary>
+  <br/>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BernardoDeveloper&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
+  <br/>
+</details>
