@@ -11,7 +11,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=learning+golang.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=studying+and+learning.">
         <br>
             <b>
             ~ Bernardo Gualberto ~
