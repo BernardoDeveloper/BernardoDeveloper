@@ -34,6 +34,7 @@
       <a href="https://discord.com/users/968852702866055179" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
       <a href="https://www.reddit.com/user/Bernardimmmmmm" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a></a>
       <a href="mailto:bernardogualberto8@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
+      <a href="https://www.linkedin.com/in/bernardo-gualberto-3129aa203/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Linkedin-%23FF4500.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></a>
       <h2></h2> 
     </samp>
 </p>
