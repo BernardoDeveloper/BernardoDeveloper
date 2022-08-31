@@ -7,8 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Bernardo, a Student, like Linux and I'm learning golang and clang.<br>
-            Now I working in <a href="https://github.com/BernardoDeveloper/powf">powf</a>.
+            I'm Bernardo, a Student, like Linux and I like use Java and Golang.<br>
             </b>
         <br>
         <br>
