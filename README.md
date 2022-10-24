@@ -7,7 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Bernardo, a Student and I like Linux, Golang.<br>
+            I'm Bernardo, a Student and I like Linux, Dotnet | C#, Golang.<br>
             </b>
         <br>
         <br>
