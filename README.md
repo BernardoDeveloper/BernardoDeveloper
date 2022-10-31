@@ -38,13 +38,3 @@
       <h2></h2> 
     </samp>
 </p>
-
-<!-- Github Stats -->
-<p align="center">
-    <samp>
-<details>
-  <summary>My Profile Stats</summary>
-  <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BernardoDeveloper&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
-  <br/>
-</details>
