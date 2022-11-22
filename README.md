@@ -32,7 +32,7 @@
 <p align="center">
     <samp>
       <a href="https://discord.com/users/968852702866055179" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
-      <a href="https://www.reddit.com/user/Bernardimmmmmm" target="_blank"><img alt="Reddit" src="[https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FbenadoDev]"></a></a>
+      <a href="https://twitter.com/benadoDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FbenadoDev"></a></a>
       <a href="mailto:bernardogualbertosilva@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
       <h2></h2> 
     </samp>
