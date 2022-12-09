@@ -7,7 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Bernardo, a Student and I like Linux && JAVA.<br>
+            I'm Bernardo, a Student and I like Linux && ReactJS | React Native.<br>
             </b>
         <br>
         <br>
