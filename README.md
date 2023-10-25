@@ -1,6 +1,6 @@
 ## ~ Bernardo Gualberto ~
 
-🚀 Performance and computer science are my favorite topics;
+🚀 Performance and computer science are my favorite topics; <br />
 📚 Learning embedded system;
 
 LinkedIn: [@bernardo](https://www.linkedin.com/in/bernardo-gualberto-32883b257/) <br />
